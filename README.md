@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevManish-07
-- 🌱 I’m currently learning Django, Waigtai, React, Javascript.
+- 🌱 I’m currently learning Django, Waigtail, React, Javascript.
 - 📫 Reach me at `sendtomanish0721@gmail.com`
 
 <!---
